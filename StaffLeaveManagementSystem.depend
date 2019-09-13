@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1568312996 source:d:\test\codes\staffleavemanagementsystem\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
